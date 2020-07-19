@@ -4,4 +4,4 @@ Each folder contains a short README regarding the gameplay.
 
 Game Builds:
 
-[Zombie Defense Game Build](https://drive.google.com/drive/folders/1koJ444Nl2gBMCbuvI-gWjNvgh5Xa_gpG?usp=sharing)
+[Zombie Defense](https://drive.google.com/drive/folders/1koJ444Nl2gBMCbuvI-gWjNvgh5Xa_gpG?usp=sharing)
