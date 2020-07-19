@@ -1,2 +1,3 @@
 # GameBuilds
 Contains builds of some of my games. These are a work in progress and by no means a finished product.
+Each folder contains a short README regarding the gameplay.
