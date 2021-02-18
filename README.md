@@ -10,3 +10,4 @@ Game Builds:
 
 [Cubic Adventures](https://drive.google.com/drive/folders/1g6KfLxFoApQ-GKCYQ5XZuv-kHYehhCfI?usp=sharing)
 
+I have many more side projects which are not necessarily viable as standalone apps, these include fields such as path finding, terrain generation, shaders and more. For more information just ask via [my gmail](mailto:jasonaleroux2@gmail.com?subject=[GitHub]%20Github%20Projects).
